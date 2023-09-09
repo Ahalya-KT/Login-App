@@ -1,0 +1,36 @@
+.login{
+    display:flex;
+}
+.login-image img{
+    height: 100vh;
+    width: 70%;
+}
+.login-form{
+    margin-top: 130px;
+    align-items: center;
+   /* padding-right: 80px; */
+    padding-right: 200px;
+}
+.form-contents{
+    width: 125%;
+}
+        
+.text{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    padding: 15px;
+    font-weight: 700;
+    
+}
+.form-text{
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    padding: 15px;
+    font-weight: 700;
+}
+.form-check{
+    display: flex;
+    justify-content: space-between;
+}
